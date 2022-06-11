@@ -10,3 +10,5 @@ Run npm install in the extracted project folder to install all required dependen
 In order to make calls to external services you need to request and add the dev.js file to the config folder.
 
 Run npm run serve to bring up the development server, view the app at localhost:8080
+
+Run the npm test command to run automatic tests
